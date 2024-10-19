@@ -1,0 +1,21 @@
+:root{
+
+    --primary-color: #333;
+    --secondary-color: #e74c3c;
+    --background-color: #f1e8e7;
+    --card-background-color: #f0e7e7;
+
+
+    --font-size-large: 32px;
+    --font-size-medium: 24px;
+    --font-size-small: 16px;
+    --font-size-base: 19px;
+
+    --spacing-large: 20px;
+    --spacing-medium: 15px;
+    --spacing-small: 10px;
+
+    --border-radius: 10px;
+    --box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
